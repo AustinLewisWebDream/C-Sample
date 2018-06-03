@@ -1,0 +1,8 @@
+150 One Fifty
+130 One Thirty
+170 One Seventy
+120 One Twenty
+140 One Forty
+160 One Sixty
+180 One Eighty
+-1  End of data
