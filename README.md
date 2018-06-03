@@ -1,5 +1,5 @@
 # About this collection:
-# This is a collection of a few of my projects written in C++ from my programming classes at the University of Kentucky
+This is a collection of a few of my projects written in C++ from my programming classes at the University of Kentucky
 
 # Disclaimer:
 # Some of the code you will see was written by my former proffessor. The files where I was not a sole author include: Project 1
